@@ -60,8 +60,6 @@ namespace ByteBank.View
                 BtnProcessar.IsEnabled = true;
                 BtnCancelar.IsEnabled = false;
             }
-
-            // 3.9 e 4.2 de execução
         }
 
         private void BtnCancelar_Click(object sender, RoutedEventArgs e)
